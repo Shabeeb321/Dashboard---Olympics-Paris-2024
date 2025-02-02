@@ -24,6 +24,18 @@ f. Advanced Power BI Features: Leverages DAX, Power Query, and custom visuals fo
 
 https://github.com/user-attachments/assets/68a6c39c-d30e-4740-b739-65810096de8f
 
+# Technologies Used
+  
+a. Python: Used for data cleaning and transformation.
+  
+b. Kaggle: Source for Olympic datasets.
+  
+c. Power BI: For interactive dashboards and visualizations.
+  
+d. DAX: For advanced data analysis and calculations.
+  
+e. Figma: For designing the dashboard's user interface.
+
 
 
 https://github.com/user-attachments/assets/95c3f593-d989-45b4-8255-8af71f15536c
