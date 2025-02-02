@@ -4,8 +4,10 @@ This project leverages large datasets spanning Olympic history since 1896 to cre
 
 
 
-https://github.com/user-attachments/assets/befe8cd1-2ad7-4c87-8cb1-06c14b00c21b
+  
+  https://github.com/user-attachments/assets/befe8cd1-2ad7-4c87-8cb1-06c14b00c21b
 
+  
 # Key Features
   
 a. Historic Data Analysis: Visualize Olympic data from 1896 to 2024, showcasing medal counts, athlete statistics, and event trends.
@@ -22,7 +24,8 @@ f. Advanced Power BI Features: Leverages DAX, Power Query, and custom visuals fo
 
 
 
-https://github.com/user-attachments/assets/68a6c39c-d30e-4740-b739-65810096de8f
+  
+  https://github.com/user-attachments/assets/68a6c39c-d30e-4740-b739-65810096de8f
 
 # Technologies Used
   
@@ -38,7 +41,8 @@ e. Figma: For designing the dashboard's user interface.
 
 
 
-https://github.com/user-attachments/assets/95c3f593-d989-45b4-8255-8af71f15536c
+  
+  https://github.com/user-attachments/assets/95c3f593-d989-45b4-8255-8af71f15536c
 
 
 
